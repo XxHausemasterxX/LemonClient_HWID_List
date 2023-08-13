@@ -1,6 +1,3 @@
-// vps:pigeon
-08a000e83b5ceae21c00ee580e4698374b81115f6e8052ecb181efaf7e09599a
-
 //----Developer----//
 // Fin_LemonKee
 
